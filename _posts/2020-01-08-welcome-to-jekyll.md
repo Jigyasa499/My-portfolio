@@ -1,15 +1,14 @@
 ---
+title: Welcome to Jekyll!
+date: 2020-01-08 00:00:00 Z
+categories:
+- Video
+- Music
+tags:
+- Jekyll
 layout: post
-title: "Welcome to Jekyll!"
-date: 2020-01-08
-category:
-  - Video
-  - Music
 image: assets/img/blog/blog-4-scaled-1.jpg
-### if need replace preview image for single image add field full_image, ex:
-#full_image: assets/img/works/work4.jpg
 author: Sarah Rose
-tags: Jekyll
 ---
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in [many different ways](https://jekyllrb.com/docs/usage/), but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.

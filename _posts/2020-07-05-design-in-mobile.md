@@ -1,13 +1,14 @@
 ---
+title: Design in Mobile Application
+date: 2020-07-05 00:00:00 Z
+categories:
+- Mobile
+tags:
+- app
+- mobile
 layout: post
-title:  Design in Mobile Application
-date:   2020-07-05
-category: Mobile
 image: assets/img/blog/blog-2.jpg
 author: Ryan Adlard
-tags:
-  - app
-  - mobile
 ---
 
 So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.
