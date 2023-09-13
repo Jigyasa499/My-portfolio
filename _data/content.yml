@@ -5,12 +5,12 @@
 
 ### Hero [ hero-image ]
 hero:
-  image: "assets/img/profile2.png"
-  image_alt: "Zoé Miller"
-  title: "<b>Zoé</b> Miller"
+  image: "assets/img/Jaggu.jpeg"
+  image_alt: "Jigyasa Agarawal"
+  title: "<b>Jigyasa</b> Agarawal"
   before_title: "Hello, <b>my name is</b>"
-  after_title: "I am <strong>Web Developer</strong>"
-  description: "From France, Paris. I have rich experience in web design, also I am good at wordpress. I love to talk with you about our unique."
+  after_title: "I am <strong>Student IDS</strong>"
+  description: "Hello, I'm Jigyasaw, and I'm thrilled to welcome you to my portfolio website. With five years of dedicated experience in the field, I have had the privilege of working at the Institute of Development Studies, University of Sussex, where my passion for making a positive impact on society has truly flourished. Throughout my journey, I have honed my skills in research, analysis, and problem-solving, always striving to find innovative solutions to complex challenges in the realm of development. I am deeply committed to driving meaningful change, and I invite you to explore my portfolio to discover the projects and initiatives that showcase my dedication to creating a brighter, more equitable future. Thank you for visiting, and I look forward to connecting with you."
   button1:
     label: "Download CV"
     link: "https://drive.google.com/"
@@ -19,11 +19,11 @@ hero:
     link: "#skills-section"
   bg_title: "Web Developer"
   info:
-    - num: "12 <strong>+</strong>"
+    - num: "5 <strong>+</strong>"
       value: "Years of <strong>Experience</strong>"
 
-    - num: "330"
-      value: "Completed <strong>Projects</strong>"
+    - num: "50+"
+      value: "Completed <strong>Reports & Articles</strong>"
 
 ### Services [ services ]
 services:
